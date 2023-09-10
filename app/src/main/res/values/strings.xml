@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assgnment1</string>
+    <string name="my_button_text">Submit</string>
+    <string name="text_view_text_message">Please enter some text</string>
+</resources>
